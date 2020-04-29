@@ -1,0 +1,12 @@
+{
+    "ID": "38511EBC89DF11EA8B590C54152B91EC",
+    "ActionKeyword": "transit",
+    "Name": "Y! Transit Search",
+    "Description": "search Yahoo! Japan transit by from/to station names",
+    "Author": "kosugi",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/kosugi/wox.y-transit",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "main.py"
+}
